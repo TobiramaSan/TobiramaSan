@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Mchango**
 
-- 🌱 I’m currently learning **Vite, Dart, Solidity**
+- 🌱 I’m currently learning **Vite, React Native, GoLang**
 
 - 👯 I’m looking to collaborate on **Aequitas**
 
