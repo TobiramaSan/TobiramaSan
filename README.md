@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm TobiramaSan</h1>
-<h3 align="center">I am a passionate frontend developer from Nigeria.</h3>
+<h3 align="center">I am Software Engineer from Nigeria.</h3>
 
-- 🔭 I’m currently working on **Mchango**
+- 🔭 I’m currently working on **Mchango, YouthInAgric**
 
 - 🌱 I’m currently learning **Vite, React Native, GoLang**
 
 - 👯 I’m looking to collaborate on **Aequitas**
 
-- 💬 Ask me about **react, vite, Next**
+- 💬 Ask me about **React, vite, Next**
 
 - 📫 How to reach me **oloruntobialademehin@gmail.com**
 
