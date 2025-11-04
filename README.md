@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋, I'm TobiramaSan</h1>
+<h1 align="center">Hi 👋, I'm Oloruntobi</h1>
 <h3 align="center">I am Software Engineer from Nigeria.</h3>
 
-- 🔭 I’m currently working on **Mchango, YouthInAgric**
-
-- 🌱 I’m currently learning **Vite, React Native, GoLang**
-
-- 👯 I’m looking to collaborate on **Aequitas**
-
-- 💬 Ask me about **React, vite, Next**
+- 🔭 I’m currently working on **Mchango, YouthInAgric, CodeGreen, IyikaTrace**
 
 - 📫 How to reach me **oloruntobialademehin@gmail.com**
 
-- ⚡ Fun fact **I am inevitable. Hehe**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
