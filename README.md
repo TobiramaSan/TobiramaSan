@@ -11,8 +11,8 @@ Currently at **Spurt!** — designing SSO infrastructure, async pipelines, and t
 Languages    Python · TypeScript · SQL · Shell
 Backend      Node.js · NestJS · FastAPI · Django
 Data         Kafka · Redis · BullMQ · PostgreSQL · MongoDB
-Infra        AWS · GCP · Docker · GitHub Actions · CI/CD
-Frontend     React · Next.js · Vue · GraphQL
+Infra        AWS · GCP · Docker · GitHub Actions · Azure · CI/CD  
+Frontend     React · Next.js · React Native · Vue · GraphQL 
 ```
 
 **Things I've shipped**
@@ -26,4 +26,5 @@ Frontend     React · Next.js · Vue · GraphQL
 
 **Writing** → [medium.com/@oloruntobialademehin](https://medium.com/@oloruntobialademehin)  
 **Email** → oloruntobialademehin@gmail.com  
-**Twitter** → [@tobirama__san](https://twitter.com/tobirama__san)
+**Twitter** → [@TobiramaSann](https://x.com/tobiramasann?s=11)
+**LinkedIn** → [Oloruntobi Samuel Alademehin](https://www.linkedin.com/in/alademehin-tobi/)
